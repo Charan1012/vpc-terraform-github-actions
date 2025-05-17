@@ -1,2 +1,2 @@
 # vpc-terraform-github-actions
-creating a vpc using Terraform and github actions as CICD
+Created and Built an Infrastructure consists of VPC, EC2, ALB, SG using Terraform and Automated using GitHub Actions as CI/CD
